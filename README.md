@@ -84,11 +84,3 @@ planning documents and peer-review process are complete.
 The finished professional portfolio has not yet been built.
 Automated tests and continuous integration are still planned.
 ```
-
-5. Click **Commit changes**.
-
-This will make your GitHub README a central place where your professor can find all your work.
-
-**That's all for Step 30.**
-
-Tell me **"Done"** after saving the README. I'll verify it on GitHub before we prepare your Canvas submission.
