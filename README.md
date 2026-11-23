@@ -50,5 +50,45 @@ Planned portfolio sections:
 ## Privacy
 This public repository contains suitable career research, professional goals and portfolio design decisions. Private career reflections and personal circumstances will remain in Canvas.
 
+
+## Project Documentation
+
+- [Project Plan](docs/plan.md)
+- [Technical Architecture](docs/architecture.md)
+- [Testing Plan](docs/testing.md)
+- [Employer Research](docs/research.md)
+
+## Published Career Research Website
+
+[AI Engineering Career Research](https://mmm286masud.github.io/career-portfolio/)
+
+The website presents three original employer descriptions,
+career direction comparisons, portfolio design decisions,
+research evidence, and next steps.
+
+## Peer Review
+
+[GitHub Issue #1 — Employer Comparison Table](https://github.com/mmm286masud/career-portfolio/issues/1)
+
+A classmate suggested adding an employer comparison table.
+The table was implemented, and the reviewer responded
+positively after checking the updated website.
+
+**Issue status:** Resolved and closed.
+
 ## Project Status
-Planning stage. The research website, implementation checks and peer review are not yet complete.
+
+The career research website is published, and the
+planning documents and peer-review process are complete.
+
+The finished professional portfolio has not yet been built.
+Automated tests and continuous integration are still planned.
+```
+
+5. Click **Commit changes**.
+
+This will make your GitHub README a central place where your professor can find all your work.
+
+**That's all for Step 30.**
+
+Tell me **"Done"** after saving the README. I'll verify it on GitHub before we prepare your Canvas submission.
